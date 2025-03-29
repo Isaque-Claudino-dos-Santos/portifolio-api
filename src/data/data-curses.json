@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Usando a AWS e explorando os recursos da nuvem como serviço",
+    "certificate_link": "https://cursos.alura.com.br/certificate/isaqueclaudino12/cloud-usando-aws-explorando-recursos-nuvem-servico",
+    "skills": ["aws", "clound", "devOps"],
+    "scholl": "alura",
+    "type": "online",
+    "completed": true
+  },
+  {
+    "name": "Explorando conceitos, comandos e scripts no Linux CLI",
+    "certificate_link": "https://cursos.alura.com.br/certificate/isaqueclaudino12/devops-conceitos-comandos-scripts-linux-cli",
+    "skills": ["linux", "script", "devOps", "cli", "bash"],
+    "scholl": "alura",
+    "type": "online",
+    "completed": true
+  },
+  {
+    "name": "Trabalhando com tráfego seguro em comunicações web",
+    "certificate_link": "https://cursos.alura.com.br/certificate/isaqueclaudino12/devops-trafego-seguro-comunicacoes-web",
+    "skills": ["http/https", "security", "devOps", "web"],
+    "scholl": "alura",
+    "type": "online",
+    "completed": true
+  },
+  {
+    "name": "Trabalhando com repositórios no GitHub",
+    "certificate_link": "https://cursos.alura.com.br/certificate/isaqueclaudino12/devops-trabalhando-repositorios-github",
+    "skills": ["git", "gitHub", "repositories", "gitFlow", "gitHubActions"],
+    "scholl": "alura",
+    "type": "online",
+    "completed": true
+  },
+  {
+    "name": "Lógica de programação: mergulhe em programação com JavaScript",
+    "certificate_link": "https://cursos.alura.com.br/certificate/isaqueclaudino12/devops-trabalhando-repositorios-github",
+    "skills": ["programming", "javascript"],
+    "scholl": "alura",
+    "type": "online",
+    "completed": true
+  }
+]

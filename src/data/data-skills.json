@@ -1,0 +1,25 @@
+{
+  "soft-skills": [
+    "proativo",
+    "aprendizado rápido",
+    "excelente comunicação",
+    "excelente trabalhando em equipe",
+    "excelente trabalhando individual",
+    "busca em evolução"
+  ],
+  "high-skills": [
+    "full-stack",
+    "node.js",
+    "typescript",
+    "javascript",
+    "sql",
+    "nosql",
+    "laravel",
+    "react",
+    "react.native",
+    "java",
+    "REST.API",
+    "SOLID",
+    "Clear Code"
+  ]
+}

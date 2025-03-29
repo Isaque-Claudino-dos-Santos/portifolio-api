@@ -1,0 +1,14 @@
+[
+  {
+    "scholl": "escola luiz sebastiao baldo",
+    "level": "medium",
+    "completed": true,
+    "started_in": 2010
+  },
+  {
+    "scholl": "estacio",
+    "level": "graduation",
+    "completed": false,
+    "started_in": 2025
+  }
+]
