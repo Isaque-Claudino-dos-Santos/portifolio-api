@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "start:dev": "npx tsx watch src",
-    "build": "rm -rf dist && npx tsc && npx ts-add-js-extension --dir=dist",
-    "start:prod": "node ./dist/index.js"
+    "build": "rm -rf dist && npx tsc && npx ts-add-js-extension --dir=dist && node ./dist/index.js"
   },
   "keywords": [],
   "author": "",
